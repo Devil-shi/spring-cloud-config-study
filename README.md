@@ -1,2 +1,2 @@
 1.aaaaa
-![aaab](./a.png)
+![aaab](a.png)
